@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PRINTSCAPE NIGERIA",
-    "currentPage": "index.html",
+    "currentPage": "paper_bags10.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1309,7 +1309,7 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1400x787.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1400x776.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -6566,7 +6566,7 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/x-large-paper-bags-1400x1015.jpg",
+              "src": "@PROJECT_PATH@/assets/images/x-large-paper-bags-1-1400x1015.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -6643,7 +6643,7 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/a4-branded-paper-bags-1400x1027.jpg",
+              "src": "@PROJECT_PATH@/assets/images/a4-branded-paper-bags-1-1400x1027.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -9622,7 +9622,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo-design-1400x1374.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-design-1-1400x1374.jpg",
               "link": "",
               "alt": "",
               "title": "",
