@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "PRINTSCAPE NIGERIA",
-    "currentPage": "paper_bags10.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 380,
+    "uniqCompNum": 387,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/img-20170210-wa0013-128x71-1.png",
     "noImageResize": "",
@@ -29,6 +29,75 @@
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#28324e",
+              "text-align": "left",
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-ak",
+          "_params": {
+            "imageSize": "17",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#fac51c",
+            "inverse": false,
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/logo-no-bkg-1400x765.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "VIDEO EMBED",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><i><b>....Your Trusted Digital Printing Giant....&nbsp;</b></i></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_tags": [
             "Theme"
@@ -36,11 +105,11 @@
           "_name": "slider",
           "_params": {
             "autoplay": true,
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/banner-show-1-2000x937.jpg",
                 "contentAlign": "center",
                 "overlay": false,
@@ -50,8 +119,8 @@
                 "title": "Slide 3",
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US NOW!</a>"
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US NOW!</a>"
               },
               {
                 "active": false,
@@ -64,11 +133,11 @@
                 "title": "Slide 1",
                 "showText": false,
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "showButtons": true,
+                "showButtons": false,
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US NOW!</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/banner-show-3-2000x936.jpg",
                 "contentAlign": "center",
                 "overlay": false,
@@ -77,7 +146,7 @@
                 "title": "Slide 2",
                 "showText": false,
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "showButtons": true,
+                "showButtons": false,
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US NOW!</a>"
               }
             ],
@@ -87,6 +156,44 @@
           },
           "_anchor": "slider-3",
           "articleLayout": false
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-aq",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "Products:",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>"
         },
         {
           "_tags": [
@@ -1176,7 +1283,7 @@
           "_name": "contacts3",
           "_styles": {
             "P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             "B": {
               "color": "#27aae0",
@@ -1600,7 +1707,7 @@
           "_name": "contacts3",
           "_styles": {
             "P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             "B": {
               "color": "#27aae0",
@@ -2262,7 +2369,7 @@
           "_name": "contacts3",
           "_styles": {
             "P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             "B": {
               "color": "#27aae0",
@@ -2945,7 +3052,7 @@
           "_name": "contacts3",
           "_styles": {
             "P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             "B": {
               "color": "#27aae0",
@@ -3351,7 +3458,7 @@
           "_name": "contacts3",
           "_styles": {
             "P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             "B": {
               "color": "#27aae0",
