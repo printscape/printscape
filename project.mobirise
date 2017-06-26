@@ -51,7 +51,7 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-ak",
           "_params": {
-            "imageSize": "16",
+            "imageSize": "17",
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": true,
@@ -76,7 +76,7 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo-no-bkg-1400x765.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-no-bkg-1400x583.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -105,9 +105,23 @@
           "_name": "slider",
           "_params": {
             "autoplay": true,
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/banner-show-1-2000x937.jpg",
+                "contentAlign": "center",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#000000",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US NOW!</a>"
+              },
               {
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/new-banner1-2000x703.jpg",
@@ -123,7 +137,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US NOW!</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/new-banner2-2000x703.jpg",
                 "contentAlign": "center",
                 "overlay": false,
