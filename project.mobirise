@@ -137,7 +137,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US NOW!</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/new-banner4a-2000x938.jpg",
                 "contentAlign": "center",
                 "overlay": false,
@@ -150,7 +150,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US NOW!</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/new-banner5a-2000x939.jpg",
                 "contentAlign": "center",
                 "overlay": false,
@@ -281,7 +281,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"largeformat1.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/business-cards-600x453.jpg",
+              "src": "@PROJECT_PATH@/assets/images/plastic-id-cards-600x443.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "business_card7.html",
@@ -305,12 +305,12 @@
               "newWindow": false
             }
           },
-          "title2": "BUSINESS CARDS",
+          "title2": "PLASTIC IDENTITY CARD",
           "caption2": "One of PRINT SCAPE NIG. Ltd &nbsp;big points is responsiveness and PRINT SCAPE NIGERIA makes effective use of this by generating highly responsive Designs for you.",
           "button2": "<a data-app-btn=\"true\" href=\"business_card7.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/letterheads-600x443.jpg",
+              "src": "@PROJECT_PATH@/assets/images/marketing-brochures-600x440.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "letterhead19.html",
@@ -334,13 +334,13 @@
               "color": "#faaf40"
             }
           },
-          "title3": "LETTER HEADS",
+          "title3": "MARKETING BROCHURES",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"letterhead19.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/envelops-600x441.jpg",
+              "src": "@PROJECT_PATH@/assets/images/custom-mugs-600x429.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -358,7 +358,7 @@
               "size": 0
             }
           },
-          "title4": "BRANDED ENVELOPES",
+          "title4": "CUSTOM MUGS",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"envelopes20.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media5": {
@@ -442,7 +442,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/greeting-cards-600x438.jpg",
+              "src": "@PROJECT_PATH@/assets/images/weding-stationery-600x435.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -460,7 +460,7 @@
               "size": 0
             }
           },
-          "title1": "GREETING CARDS",
+          "title1": "WEDDING STATIONERY",
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"greeting_cards8.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
@@ -640,7 +640,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/marketing-brochures-600x440.jpg",
+              "src": "@PROJECT_PATH@/assets/images/letterheads-600x443.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -658,13 +658,13 @@
               "size": 0
             }
           },
-          "title2": "MARKETING BROCHURES",
+          "title2": "LETTER HEADS",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"brochures9.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/plastic-id-cards-600x443.jpg",
+              "src": "@PROJECT_PATH@/assets/images/business-cards-600x453.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -682,7 +682,7 @@
               "size": 0
             }
           },
-          "title3": "PLASTIC IDENTITY CARD",
+          "title3": "BUSINESS CARD",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"id_cards5.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media4": {
@@ -822,7 +822,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"paper_bags10.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/weding-stationery-600x435.jpg",
+              "src": "@PROJECT_PATH@/assets/images/greeting-cards-600x438.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -846,7 +846,7 @@
               "newWindow": false
             }
           },
-          "title2": "WEDDING STATIONERY",
+          "title2": "GREETING CARDS",
           "caption2": "One of PRINT SCAPE NIG. Ltd &nbsp;big points is responsiveness and PRINT SCAPE NIGERIA makes effective use of this by generating highly responsive Designs for you.",
           "button2": "<a data-app-btn=\"true\" href=\"wedding13.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media3": {
@@ -881,7 +881,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/custom-mugs-600x429.jpg",
+              "src": "@PROJECT_PATH@/assets/images/envelops-600x441.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -899,7 +899,7 @@
               "size": 0
             }
           },
-          "title4": "CUSTOM MUGS",
+          "title4": "BRANDED ENVELOPES",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"mugs6.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media5": {
