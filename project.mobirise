@@ -53,7 +53,7 @@
           "_params": {
             "imageSize": "17",
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -76,7 +76,7 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo-no-bkg-1400x583.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-no-bkga-1400x534.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -109,8 +109,8 @@
             "paddingBottom": "0",
             "slides": [
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/banner-show-1-2000x937.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/new-banner1a-2000x938.jpg",
                 "contentAlign": "center",
                 "overlay": false,
                 "overlayOpacity": "0.3",
@@ -124,21 +124,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/new-banner1-2000x703.jpg",
-                "contentAlign": "center",
-                "overlay": false,
-                "overlayOpacity": "0.3",
-                "overlayColor": "#000000",
-                "showTitle": false,
-                "title": "Slide 3",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US NOW!</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/new-banner2-2000x703.jpg",
+                "image": "@PROJECT_PATH@/assets/images/new-banner2a-2000x943.jpg",
                 "contentAlign": "center",
                 "overlay": false,
                 "overlayOpacity": "0.3",
@@ -152,7 +138,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/new-banner4-2000x702.jpg",
+                "image": "@PROJECT_PATH@/assets/images/new-banner4a-2000x938.jpg",
                 "contentAlign": "center",
                 "overlay": false,
                 "overlayOpacity": "0.3",
@@ -164,8 +150,8 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US NOW!</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/new-banner5-2000x702.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/new-banner5a-2000x939.jpg",
                 "contentAlign": "center",
                 "overlay": false,
                 "overlayOpacity": "0.3",
@@ -266,7 +252,7 @@
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/p-600x435.jpg",
+              "src": "@PROJECT_PATH@/assets/images/lage-format-web-p-600x436.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "largeformat1.html",
@@ -1184,7 +1170,7 @@
             "showButtons": true
           },
           "title": "PRE MADE DESIGNS.",
-          "text": "Print Scape provides you with huge collections of pre made layouts/designs to help make your design and printing problems solved immediately.",
+          "text": "PrintScape provides you with huge collections of pre made layouts/designs to help make your design and printing problems solved immediately.",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#contacts3-e\" data-toolbar=\"-mbrBtnMove\">START A JOURNEY</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"gallary.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-video-play mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 27px; color: rgb(184, 49, 47);\"></span>GALLARY&nbsp;</a>"
         },
         {
@@ -1335,7 +1321,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: solekstech@me.com, soleksprint@gmail.com, printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
+          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: info@printscape.com.ng, <br>customercare@printscape.com.ng,<br>printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -1444,7 +1430,7 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo-1400x776.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-no-bkg2-1400x632.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1759,7 +1745,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: solekstech@me.com, soleksprint@gmail.com, printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
+          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: info@printscape.com.ng, <br>customercare@printscape.com.ng,<br>printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -2009,7 +1995,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-265x148.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-no-bkg2-265x119.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -2026,7 +2012,7 @@
           },
           "text1": "<strong>ADDRESS</strong><br><b>AWKA 1:</b><br>210 zik's Ave. Opp. NIPOST Awka,<br>Beside Diamond Bank plc Awka<br>Anambra State, Nigeria<br><span style=\"line-height: 1.7em;\"><b>AWKA 2:</b></span><br>54 Maduka Street(Chiamaka Plaza) Aroma, Awka, Anambra State, Nigeria.<br><b>ABA:</b><br>176 Faulks Rd. Beside Zenith Bank, Aba, Abia State, Nigeria.<br><b>ONITSHA:<br></b>219 Obodoukwu Rd. Opp. Fire Service, Onitsha, Anambra State, Nigeria.<br><b>PH 1:</b><br>50 Abakiliki Street Mile1 Diobu, Port-Harcourt, Rivers State, Nigeria.<br><b>PH 2:</b><br>23 Abakaliki/Aba St, mile 1 Diobu, Portharcourt.<br><b><br></b><span style=\"line-height: 1.7em;\"><b><i>COMING SOON:</i></b></span><br><b>ENUGU, ASABA, OWERI, UYO AND LAGOS BRANCH</b>.<span style=\"line-height: 1.7em;\"><br></span><br>",
           "text2": "<strong>CONTACTS</strong><br><font color=\"#faaf40\"><b>AWKA 1:</b></font><br>042290963, 08139070482, 08132186348.<br><br><b>AWKA 2:</b><br>08132186348, 08139752637<b><br></b><br><b><br></b><b>ABA:</b><br>082440640, 07066941552, 07057071825.<br><b>ONITSHA:</b><br>08036720100, 08166689653.<br><b><br></b><br><b>PH 1:</b><br>07041995102, 08036720100.<b><br></b>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS/ E-MAIL</strong></p><ul class=\"mbr-contacts__list\"><li>solekstech@me.com, soleksprint@gmail.com</li></ul><p>printscapenigeria@gmail.com</p><p><b>WHATSAPP NUMBER:</b></p><p>08136871518</p>"
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS/ E-MAIL</strong></p><ul class=\"mbr-contacts__list\"><li>info@printscape.com.ng,&nbsp;</li><li>customercare@printscape.com.ng,</li></ul><p>printscapenigeria@gmail.com</p><p><b>WHATSAPP NUMBER:</b></p><p>08136871518</p>"
         },
         {
           "_inherit": "dropdown-menu",
@@ -2134,7 +2120,7 @@
             "overlayColor": "#354369",
             "showTitle": true
           },
-          "title": "Fill the form below to contact us:",
+          "title": "Fill the form below to order/ contact us:",
           "form": {
             "action": "printscapenigeria@gmail.com",
             "alerts": {
@@ -2421,7 +2407,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: solekstech@me.com, soleksprint@gmail.com, printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
+          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: info@printscape.com.ng, <br>customercare@printscape.com.ng,<br>printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -3104,7 +3090,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: solekstech@me.com, soleksprint@gmail.com, printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
+          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: info@printscape.com.ng, <br>customercare@printscape.com.ng,<br>printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -3510,7 +3496,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: solekstech@me.com, soleksprint@gmail.com, printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
+          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: info@printscape.com.ng, <br>customercare@printscape.com.ng,<br>printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -3815,7 +3801,7 @@
           "_name": "contacts3",
           "_styles": {
             "P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             "B": {
               "color": "#27aae0",
@@ -3839,7 +3825,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: solekstech@me.com, soleksprint@gmail.com, printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
+          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: info@printscape.com.ng, <br>customercare@printscape.com.ng,<br>printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -4529,7 +4515,7 @@
           "_name": "contacts3",
           "_styles": {
             "P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             "B": {
               "color": "#27aae0",
@@ -4553,7 +4539,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: solekstech@me.com, soleksprint@gmail.com, printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
+          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: info@printscape.com.ng, <br>customercare@printscape.com.ng,<br>printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -5012,7 +4998,7 @@
           "_name": "contacts3",
           "_styles": {
             "P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             "B": {
               "color": "#27aae0",
@@ -5036,7 +5022,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: solekstech@me.com, soleksprint@gmail.com, printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
+          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: info@printscape.com.ng, <br>customercare@printscape.com.ng,<br>printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -5572,7 +5558,7 @@
           "_name": "contacts3",
           "_styles": {
             "P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             "B": {
               "color": "#27aae0",
@@ -5596,7 +5582,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: solekstech@me.com, soleksprint@gmail.com, printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
+          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: info@printscape.com.ng, <br>customercare@printscape.com.ng,<br>printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -6055,7 +6041,7 @@
           "_name": "contacts3",
           "_styles": {
             "P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             "B": {
               "color": "#27aae0",
@@ -6079,7 +6065,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: solekstech@me.com, soleksprint@gmail.com, printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
+          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: info@printscape.com.ng, <br>customercare@printscape.com.ng,<br>printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -6461,7 +6447,7 @@
           "_name": "contacts3",
           "_styles": {
             "P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             "B": {
               "color": "#27aae0",
@@ -6485,7 +6471,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: solekstech@me.com, soleksprint@gmail.com, printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
+          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: info@printscape.com.ng, <br>customercare@printscape.com.ng,<br>printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -6944,7 +6930,7 @@
           "_name": "contacts3",
           "_styles": {
             "P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             "B": {
               "color": "#27aae0",
@@ -6968,7 +6954,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: solekstech@me.com, soleksprint@gmail.com, printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
+          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: info@printscape.com.ng, <br>customercare@printscape.com.ng,<br>printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -7196,7 +7182,7 @@
           "_name": "contacts3",
           "_styles": {
             "P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             "B": {
               "color": "#27aae0",
@@ -7220,7 +7206,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: solekstech@me.com, soleksprint@gmail.com, printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
+          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: info@printscape.com.ng, <br>customercare@printscape.com.ng,<br>printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -7525,7 +7511,7 @@
           "_name": "contacts3",
           "_styles": {
             "P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             "B": {
               "color": "#27aae0",
@@ -7549,7 +7535,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: solekstech@me.com, soleksprint@gmail.com, printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
+          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: info@printscape.com.ng, <br>customercare@printscape.com.ng,<br>printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -7931,7 +7917,7 @@
           "_name": "contacts3",
           "_styles": {
             "P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             "B": {
               "color": "#27aae0",
@@ -7955,7 +7941,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: solekstech@me.com, soleksprint@gmail.com, printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
+          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: info@printscape.com.ng, <br>customercare@printscape.com.ng,<br>printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -8348,7 +8334,7 @@
           "_name": "contacts3",
           "_styles": {
             "P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             "B": {
               "color": "#27aae0",
@@ -8372,7 +8358,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: solekstech@me.com, soleksprint@gmail.com, printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
+          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: info@printscape.com.ng, <br>customercare@printscape.com.ng,<br>printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -8770,7 +8756,7 @@
           "_name": "contacts3",
           "_styles": {
             "P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             "B": {
               "color": "#27aae0",
@@ -8794,7 +8780,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: solekstech@me.com, soleksprint@gmail.com, printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
+          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: info@printscape.com.ng, <br>customercare@printscape.com.ng,<br>printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -9187,7 +9173,7 @@
           "_name": "contacts3",
           "_styles": {
             "P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             "B": {
               "color": "#27aae0",
@@ -9211,7 +9197,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: solekstech@me.com, soleksprint@gmail.com, printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
+          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: info@printscape.com.ng, <br>customercare@printscape.com.ng,<br>printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -9593,7 +9579,7 @@
           "_name": "contacts3",
           "_styles": {
             "P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             "B": {
               "color": "#27aae0",
@@ -9617,7 +9603,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: solekstech@me.com, soleksprint@gmail.com, printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
+          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: info@printscape.com.ng, <br>customercare@printscape.com.ng,<br>printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -10080,7 +10066,7 @@
           "_name": "contacts3",
           "_styles": {
             "P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             "B": {
               "color": "#27aae0",
@@ -10104,7 +10090,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: solekstech@me.com, soleksprint@gmail.com, printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
+          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: info@printscape.com.ng, <br>customercare@printscape.com.ng,<br>printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -10332,7 +10318,7 @@
           "_name": "contacts3",
           "_styles": {
             "P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             "B": {
               "color": "#27aae0",
@@ -10356,7 +10342,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: solekstech@me.com, soleksprint@gmail.com, printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
+          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: info@printscape.com.ng, <br>customercare@printscape.com.ng,<br>printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -10661,7 +10647,7 @@
           "_name": "contacts3",
           "_styles": {
             "P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             "B": {
               "color": "#27aae0",
@@ -10685,7 +10671,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: solekstech@me.com, soleksprint@gmail.com, printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
+          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: info@printscape.com.ng, <br>customercare@printscape.com.ng,<br>printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -10990,7 +10976,7 @@
           "_name": "contacts3",
           "_styles": {
             "P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             "B": {
               "color": "#27aae0",
@@ -11014,7 +11000,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: solekstech@me.com, soleksprint@gmail.com, printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
+          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: info@printscape.com.ng, <br>customercare@printscape.com.ng,<br>printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -11242,7 +11228,7 @@
           "_name": "contacts3",
           "_styles": {
             "P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             "B": {
               "color": "#27aae0",
@@ -11266,7 +11252,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: solekstech@me.com, soleksprint@gmail.com, printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
+          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: info@printscape.com.ng, <br>customercare@printscape.com.ng,<br>printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -11659,7 +11645,7 @@
           "_name": "contacts3",
           "_styles": {
             "P": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             "B": {
               "color": "#27aae0",
@@ -11683,7 +11669,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: solekstech@me.com, soleksprint@gmail.com, printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
+          "text1": "<b>ADDRESS</b><br>GO TO CONTACT US TO SEE OUR ADDRESSES.<br><br>\n<strong>E-MAILS/MOBILE NO.</strong><br>\nEmail: info@printscape.com.ng, <br>customercare@printscape.com.ng,<br>printscapenigeria@gmail.com<br>\nPhone: 08188666142<br><br><b>WHATSAPP NUMBER:</b><br>08136871518<br>",
           "text2": "<ul class=\"mbr-contacts__list\"><li></li></ul>",
           "form": {
             "title": "MESSAGE",
